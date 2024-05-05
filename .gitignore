@@ -1,1 +1,3 @@
-./BTC_1min.csv
+.venv
+.vscode
+./src/__pycache__
